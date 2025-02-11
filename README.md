@@ -1,9 +1,3 @@
-Name : Penugonda Siva Sai Pavan Prakash
-ID : CT08DS1129
-Domain : Web Development
-Duration : 25th MAY 2024 to 25th JUNE 2024
-Mentor : Sravani Gouni
-
 Description :
 A weather forecasting app is a mobile application designed to provide users with real-time weather information and forecasts. These apps leverage data from meteorological agencies and advanced predictive models to deliver accurate and up-to-date weather conditions, making them essential tools for planning daily activities and staying informed about potential weather hazards.
 Key features of a weather forecasting app include:
